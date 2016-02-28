@@ -1,0 +1,28 @@
+_repo: The-Duke-s-Prize-a-Story-of-Art-and-Heart-in-Florence_4956
+creator:
+  author:
+    agent_name: Ballou, Maturin Murray
+    aliases:
+    - Ballou, Maturin M. (Maturin Murray)
+    - Ballou, M. M. (Maturin Murray)
+    - Murray, Lieutenant
+    - Forester, Frank
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Florence (Italy) -- Fiction'
+title: The Duke's Prize; a Story of Art and Heart in Florence
+url: http://www.gutenberg.org/ebooks/4956
