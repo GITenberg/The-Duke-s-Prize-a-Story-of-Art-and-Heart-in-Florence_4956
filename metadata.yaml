@@ -1,5 +1,5 @@
 _repo: The-Duke-s-Prize-a-Story-of-Art-and-Heart-in-Florence_4956
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Florence (Italy) -- Fiction'
+- GITenberg
 title: The Duke's Prize; a Story of Art and Heart in Florence
 url: http://www.gutenberg.org/ebooks/4956
